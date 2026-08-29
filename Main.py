@@ -11,7 +11,7 @@ image = 'PurpleButton.png'
 stop_event = threading.Event()
 
 #This update to Github V3
-
+#Is this real time
 
 def ClickPur():
     while True:
